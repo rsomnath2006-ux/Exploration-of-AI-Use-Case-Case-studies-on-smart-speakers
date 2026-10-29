@@ -31,16 +31,16 @@ The basic working process of an AI-enabled smart speaker is:
 ## SAMPLE IMAGE – AI-ENABLED SMART SPEAKER
 
 # Amazon Echo:
-<img width="1000" height="1000" alt="image" src="https://github.com/user-attachments/assets/01f0c54b-51d8-4625-8b59-8c5532c9b378" />
+<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/01f0c54b-51d8-4625-8b59-8c5532c9b378" />
 
 # Google Nest:
-<img width="1500" height="1500" alt="image" src="https://github.com/user-attachments/assets/126434bb-53c4-416b-9ba8-462fe282163c" />
+<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/126434bb-53c4-416b-9ba8-462fe282163c" />
 
 # Apple HomePod:
-<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/e96f69fc-5bb5-4c84-962f-7cc6a7797291" />
+<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/e96f69fc-5bb5-4c84-962f-7cc6a7797291" />
 
 # Smart home control:
-<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/fe7f3ca0-cccd-4d06-aa55-95cfcef07129" />
+<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/fe7f3ca0-cccd-4d06-aa55-95cfcef07129" />
 
 
 
