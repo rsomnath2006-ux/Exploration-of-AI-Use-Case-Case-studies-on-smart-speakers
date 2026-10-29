@@ -1,5 +1,4 @@
-# Exploration-of-AI-Use-Case-Case-studies-on-smart-speakers
-# EX NO: 1
+
 # Exploration of AI Use Case: Case Studies on Smart Speakers
 
 ## AIM
